@@ -17,7 +17,7 @@ A classic Hangman game implemented in Python. Players guess letters to reveal a 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<USERNAME>/hangman-game.git
+   git clone https://github.com/nagarajuiare/hangman-game.git
 2. **Navigate to the Project Directory**:
    ```bash
      cd hangman-game
